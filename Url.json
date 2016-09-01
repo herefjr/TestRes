@@ -1,0 +1,44 @@
+{
+  "测试1": {
+    "ID": "测试1",
+    "Title": "奇怪的视频1.avi",
+    "Thumbnail": "file://E:/Git/TestStreamingMedia/Thumbnail.jpg",
+    "VideoUrl": "https://unity3d.com/files/docs/sample.ogg",
+    "Lenght": "1|32"
+  },
+  "测试2": {
+    "ID": "测试2",
+    "Title": "奇怪的视频2.avi",
+    "Thumbnail": "file://E:/Git/TestStreamingMedia/Thumbnail.jpg",
+    "VideoUrl": "https://unity3d.com/files/docs/sample.ogg",
+    "Lenght": "1|32"
+  },
+  "测试3": {
+    "ID": "测试3",
+    "Title": "奇怪的视频3.avi",
+    "Thumbnail": "file://E:/Git/TestStreamingMedia/Thumbnail.jpg",
+    "VideoUrl": "https://unity3d.com/files/docs/sample.ogg",
+    "Lenght": "1|32"
+  },
+  "测试4": {
+    "ID": "测试4",
+    "Title": "奇怪的视频4.avi",
+    "Thumbnail": "file://E:/Git/TestStreamingMedia/Thumbnail.jpg",
+    "VideoUrl": "https://unity3d.com/files/docs/sample.ogg",
+    "Lenght": "1|32"
+  },
+  "测试5": {
+    "ID": "测试5",
+    "Title": "奇怪的视频5.avi",
+    "Thumbnail": "file://E:/Git/TestStreamingMedia/Thumbnail.jpg",
+    "VideoUrl": "https://unity3d.com/files/docs/sample.ogg",
+    "Lenght": "1|32"
+  },
+  "测试6": {
+    "ID": "测试6",
+    "Title": "奇怪的视频6.avi",
+    "Thumbnail": "file://E:/Git/TestStreamingMedia/Thumbnail.jpg",
+    "VideoUrl": "https://unity3d.com/files/docs/sample.ogg",
+    "Lenght": "1|32"
+  }
+}
